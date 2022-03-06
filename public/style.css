@@ -1,0 +1,252 @@
+body{
+  background-image: url(images/stars.gif);
+  background-attachment: fixed;
+  background-color: #140028; 
+}
+
+h1{
+  color: white;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: badComic;
+}
+
+.info{
+  color: white;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: badComic;
+  padding: 10px;
+}
+
+/* .warn{
+  color: red;
+  background-color: black;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: solid red 3px;
+  font-family: 'Source Code Pro', monospace;
+  padding: 10px;
+  margin-top: 20px;
+} */
+
+.catagories{
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+
+.box{
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  font-family: badComic;
+  background-color: black;
+  width: 150px;
+  text-align: center;
+  color: white;
+  border: solid white 3px;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+ img{
+  image-rendering: -webkit-optimize-contrast;
+}
+
+marquee{
+  color: white;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 24px;
+  background-image: url(images/bg-black.gif);
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#shadowBox {
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.2);
+  border: 3px solid;
+}
+
+.rainbow {
+  text-align: center;
+  animation: colorRotate 6s linear 0s infinite;
+}
+
+@keyframes colorRotate {
+  from {
+    color: #6666ff;
+  }
+  10% {
+    color: #0099ff;
+  }
+  50% {
+    color: #00ff00;
+  }
+  75% {
+    color: #ff3399;
+  }
+  100% {
+    color: #6666ff;
+  }
+}
+
+@font-face {
+    font-family: badComic;
+    src: url(fonts/ComicSansMS3.ttf);
+}
+
+.backbox{
+  color: red;
+  background-color: black;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: solid red 3px;
+  font-family: 'Source Code Pro', monospace;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.back{
+  color: red;
+  text-decoration: none;
+}
+
+.GameInfo{
+  color: white;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: badComic;
+  padding: 10px;
+}
+
+.GameImg{
+  max-width:80%;
+  border: ridge white 10px;
+  margin-top: 20px;
+}
+
+.download{
+  color: green;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid green 3px;
+  font-family: badComic;
+  margin-bottom: 20px;
+} 
+
+.downloada{
+  color: green;
+  text-decoration: none;
+}
+
+.newgrounds{
+  text-decoration: none;
+  color: #fda238;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid #fda238 3px;
+  font-family: badComic;
+  margin-bottom: 20px;
+}
+
+.gamejolt{
+  color: #ccff00;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid #ccff00 3px;
+  font-family: badComic;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.steam{
+  color: #54a5d4;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid #54a5d4 3px;
+  font-family: badComic;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.genres{
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+
+.disInfo{
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+.discord{
+  border-radius: 15px;
+  border: white 3px solid;
+}
+
+.bigtext{
+  font-size: 28px;
+}
+
+.centerimg{
+  vertical-align: text-bottom;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.emojiimg{
+  vertical-align: baseline;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.nounderline{
+  text-decoration: none;
+}
+
+.bigbunga{
+  color: gray;
+}
