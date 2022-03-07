@@ -1,107 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
 
-
-<url>
-  <loc>https://jazzuo.fun/</loc>
-  <lastmod>2022-03-06T15:33:01+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/sexyhiking/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/catagories/games/</loc>
-  <lastmod>2022-03-06T15:33:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/catagories/discord/</loc>
-  <lastmod>2022-03-06T15:33:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/catagories/fangames/</loc>
-  <lastmod>2022-03-06T19:29:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/genres/platformers/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/genres/cars/</loc>
-  <lastmod>2022-03-06T19:28:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/fangames/moneyman/</loc>
-  <lastmod>2022-03-06T15:33:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/fangames/ponyfall/</loc>
-  <lastmod>2022-03-06T19:28:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/fangames/overit/</loc>
-  <lastmod>2022-03-06T19:28:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/GMGolf/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/HouseOf/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/GMFall/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/GMC1/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/mandala/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/SIL2/</loc>
-  <lastmod>2022-03-06T15:33:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/SIL23D/</loc>
-  <lastmod>2022-03-06T19:26:25+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/SRD/</loc>
-  <lastmod>2022-03-06T19:26:43+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://jazzuo.fun/games/KMG/</loc>
-  <lastmod>2022-03-06T19:26:55+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+  <url>
+       <loc>https://jazzuo.fun/</loc>
+       <lastmod>2022-03-06T15:33:01+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/sexyhiking/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/catagories/games/</loc>
+       <lastmod>2022-03-06T15:33:01+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/catagories/discord/</loc>
+       <lastmod>2022-03-06T15:33:01+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/catagories/fangames/</loc>
+       <lastmod>2022-03-06T19:29:35+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/genres/platformers/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/genres/cars/</loc>
+       <lastmod>2022-03-06T19:28:45+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/fangames/moneyman/</loc>
+       <lastmod>2022-03-06T15:33:01+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/fangames/ponyfall/</loc>
+       <lastmod>2022-03-06T19:28:28+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/fangames/overit/</loc>
+       <lastmod>2022-03-06T19:28:20+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/GMGolf/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/HouseOf/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/GMFall/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/GMC1/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/mandala/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/SIL2/</loc>
+       <lastmod>2022-03-06T15:33:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/SIL23D/</loc>
+       <lastmod>2022-03-06T19:26:25+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/SRD/</loc>
+       <lastmod>2022-03-06T19:26:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://jazzuo.fun/games/KMG/</loc>
+       <lastmod>2022-03-06T19:26:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
 </urlset>

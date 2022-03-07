@@ -249,3 +249,21 @@ marquee{
 .bigbunga{
   color: gray;
 }
+
+.lang{
+  text-align: center;
+  color: white;
+  background-color: black;
+  width: 250px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: badComic;
+  text-decoration: none;
+}
+
+.noul{
+  text-decoration: none;
+}
