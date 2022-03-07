@@ -1,4 +1,4 @@
-# Welcome to The Jazzuo Fanclub's README.md file!
+# Welcome to The Jazzuo Fanclub's read me file!
 
 In this site you can find many archived Jazzuo games including Sexy Hiking + many more fun games, fan games, a Discord community, a blog, contact information, and more!
 
