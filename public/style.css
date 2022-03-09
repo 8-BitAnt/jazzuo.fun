@@ -73,8 +73,7 @@ marquee{
   font-size: 24px;
   background-image: url(images/bg-black.gif);
   border-radius: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
 }
 
 #shadowBox {
@@ -266,4 +265,27 @@ marquee{
 
 .noul{
   text-decoration: none;
+}
+
+.bigger{
+  font-size: 30px;
+}
+
+.profile{
+  border: solid 3px white;
+  border-radius: 10px;
+}
+
+.siteRoll{
+  color: white;
+  background-color: black;
+  width: 150px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: badComic;
+  padding: 10px;
+  font-size: 30px;
 }
